@@ -60,3 +60,6 @@ score matrix.
 
 No database, no auth, no frontend. This app exists to be validated, not to
 be a real shop — don't over-invest in it.
+
+
+will it work anna pls ??????
